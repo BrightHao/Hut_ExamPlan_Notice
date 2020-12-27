@@ -1,0 +1,126 @@
+<table id="dataList" width="100%" border="0" cellspacing="0" cellpadding="0" class="Nsb_r_list Nsb_table">
+		<tr>
+			<th class="Nsb_r_list_thb" style="width: 35px;">序号</th>
+			<th class="Nsb_r_list_thb" style="width: 60px;">校区</th>
+			<th class="Nsb_r_list_thb" style="width: 120px;">考试场次</th>
+			<th class="Nsb_r_list_thb" style="width: 120px;">课程编号</th>
+			<th class="Nsb_r_list_thb">课程名称</th>
+			<th class="Nsb_r_list_thb">授课教师</th>
+			<th class="Nsb_r_list_thb" style="width: 110px;">考试时间</th>
+			<th class="Nsb_r_list_thb" style="width: 140px;">考场</th>
+			<th class="Nsb_r_list_thb" style="width: 60px;">座位号</th>
+			<th class="Nsb_r_list_thb" style="width: 120px;">准考证号</th>
+			<th class="Nsb_r_list_thb" style="width: 120px;">备注</th>
+			<th class="Nsb_r_list_thb" style="width: 50px;">操作</th>
+		</tr>
+		
+		<tr>
+			<td>1</td>
+			<td align="left">河西校区</td>
+			<td align="left">测控电路+数字图像</td>
+			<td align="left">01122110</td>
+			<td align="left">数字图像处理A</td>
+			<td>郑伟华</td>
+			<td>2021-01-04 10:00~11:40</td>
+			<td>电气楼404</td>
+			<td></td>
+			<td></td>
+			
+			
+				<td></td>
+			
+			<td><a href="javascript:fuc('7DBE7F1703FB4A24A793CEE6D365D914')">备注</a></td>
+		</tr>
+		
+		<tr>
+			<td>2</td>
+			<td align="left">河西校区</td>
+			<td align="left">计算机网络d</td>
+			<td align="left">08180210</td>
+			<td align="left">计算机网络</td>
+			<td>洪升彪</td>
+			<td>2021-01-06 14:00~15:40</td>
+			<td>计通楼510</td>
+			<td></td>
+			<td></td>
+			
+			
+				<td></td>
+			
+			<td><a href="javascript:fuc('EFC85A02F9934926B31219C8079F16DA')">备注</a></td>
+		</tr>
+		
+		<tr>
+			<td>3</td>
+			<td align="left">河西校区</td>
+			<td align="left">物联网技术+移动通信</td>
+			<td align="left">01151100</td>
+			<td align="left">移动通讯系统</td>
+			<td>周维龙</td>
+			<td>2021-01-06 16:00~17:40</td>
+			<td>电气楼302</td>
+			<td></td>
+			<td></td>
+			
+			
+				<td></td>
+			
+			<td><a href="javascript:fuc('7B4618F7366C4C44A5F459698D555969')">备注</a></td>
+		</tr>
+		
+		<tr>
+			<td>4</td>
+			<td align="left">河西校区</td>
+			<td align="left">DSP技术及应用A</td>
+			<td align="left">01122100</td>
+			<td align="left">DSP技术及应用A</td>
+			<td>杨振亚</td>
+			<td>2021-01-07 10:00~11:40</td>
+			<td>公共107</td>
+			<td></td>
+			<td></td>
+			
+			
+				<td></td>
+			
+			<td><a href="javascript:fuc('5A78978D2FA24D2DB9A70186194A8A0F')">备注</a></td>
+		</tr>
+		
+		<tr>
+			<td>5</td>
+			<td align="left">河西校区</td>
+			<td align="left">电子系统</td>
+			<td align="left">01122080</td>
+			<td align="left">电子系统设计</td>
+			<td>欧阳洪波</td>
+			<td>2021-01-07 16:00~17:40</td>
+			<td>电气楼404</td>
+			<td></td>
+			<td></td>
+			
+			
+				<td></td>
+			
+			<td><a href="javascript:fuc('95E116B4A1F34BE5B4E7ABC7711F7CB0')">备注</a></td>
+		</tr>
+		
+		<tr>
+			<td>6</td>
+			<td align="left">河西校区</td>
+			<td align="left">电子仪器+数据结构+电路</td>
+			<td align="left">01151420</td>
+			<td align="left">数据结构</td>
+			<td>郑伟华</td>
+			<td>2021-01-08 10:00~11:40</td>
+			<td>电气楼404</td>
+			<td></td>
+			<td></td>
+			
+			
+				<td></td>
+			
+			<td><a href="javascript:fuc('05C0EE05902D4DFC9A00EE982A626F2D')">备注</a></td>
+		</tr>
+		
+		
+	</table>
